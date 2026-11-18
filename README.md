@@ -11,7 +11,7 @@ Q: cool! how will the controls be on android?
 
 A: the controls will be like any other mobile game, 2d joystick to move, and jump and sprint buttons.
 
-- Browser
+### Browser
   
 Q: how will the game be on browser?
 
