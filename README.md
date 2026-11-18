@@ -8,9 +8,11 @@ Sacred is a unity made game made by @xen-lol, i made this game because i wanted 
 
 # game coming to browser and android soon
 Q: cool! how will the controls be on android?
+
 A: the controls will be like any other mobile game, 2d joystick to move, and jump and sprint buttons.
 
 Q: how will the game be on browser?
+
 A: for players who own a pc, you move with WASD, sprint with Left Shift, jump with Space. For mobile members? the browser type game will not be available for you guys, later on i will add this.
 
 # where do i download?
